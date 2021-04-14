@@ -1,6 +1,6 @@
 ### Hi there 👋 I am attending Gwangju Software Meister High School.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=[본인 깃허브 이름]&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=[Hotteock3388]&show_icons=true&theme=radical)
 
 <!--
 **Hotteock3388/Hotteock3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

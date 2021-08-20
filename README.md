@@ -5,12 +5,13 @@
 <!--
 **Hotteock3388/Hotteock3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on ... <br>
+MVVM architecture<br>
+RxKotlin <br>
 
-- 🔭 I’m currently working on ...
-aahi
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning ...<br><br>
+- 👯 I’m looking to collaborate on ...<br><br>
+- 🤔 I’m looking for help with ...<br><br>
+- 💬 Ask me about ...<br><br>
+- 📫 How to reach me: ...<br><br>
 

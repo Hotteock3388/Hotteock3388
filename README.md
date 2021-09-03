@@ -4,11 +4,13 @@
 
 <!--
 **Hotteock3388/Hotteock3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on ... <br>
 MVVM architecture<br>
 RxKotlin <br>
 
+<!-- 
 - 🌱 I’m currently learning ...<br><br>
 - 👯 I’m looking to collaborate on ...<br><br>
 - 🤔 I’m looking for help with ...<br><br>

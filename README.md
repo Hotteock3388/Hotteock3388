@@ -9,4 +9,4 @@ Junior Android Developer
 - 광주소프트웨어마이스터고등학교 소프트웨어개발과 졸업 (2019.03 ~ 2022.01)
 
 ### ✉️ Contact
-khandy3388@gmail.com
+- khandy3388@gmail.com
